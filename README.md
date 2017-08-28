@@ -1,3 +1,12 @@
+Disclaimer:
+This fork was created to facilitate creation of a Docker image, and these images are created from forks of the source by myself (Jason Weirather), and I am NOT creator or author of the facets package.
+
+Please cite:
+Shen R, Seshan VE. FACETS: allele-specific copy number and clonal
+heterogeneity analysis tool for high-throughput DNA sequencing. Nucleic Acids
+Res. 2016 Sep 19;44(16):e131. doi: 10.1093/nar/gkw520. Epub 2016 Jun 7. PubMed
+PMID: 27270079; PubMed Central PMCID: PMC5027494.
+
 # facets
 Algorithm to implement Fraction and Allele specific Copy number Estimate from Tumor/normal Sequencing.
 
