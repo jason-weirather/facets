@@ -1,6 +1,8 @@
 .git
 .gitignore
+Dockerfile
 README.md
+htslib-1.5.tar.bz2
 ^.*\.Rproj$
 ^\.Rproj\.user$
 ^\.travis\.yml$
